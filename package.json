@@ -1,0 +1,15 @@
+{
+  "name": "runkit-graph",
+  "version": "0.0.1",
+  "description": "Render graphs in RunKit",
+  "main": "index.js",
+  "author": "Mark Miro <contact@markmiro.com> (https://markmiro.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "@runkit/value-viewer": "1.0.0",
+    "d3": "5.9.1"
+  },
+  "devDependencies": {
+    "prettier": "1.16.4"
+  }
+}
